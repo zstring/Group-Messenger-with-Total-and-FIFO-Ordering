@@ -1,0 +1,1 @@
+/home/inspire/Android/Project/GroupMessenger2/app/build/intermediates/classes/debug
